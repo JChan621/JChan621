@@ -1,7 +1,5 @@
 ### Hello, My name is Tze Him Chan. Fourier.
 
-#### I am an Electrical Engineer and a Developer! 🖐
-
 ## <div></div>
 
 ### Feel free to connect with me:
