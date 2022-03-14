@@ -1,8 +1,6 @@
 ### Hello, My name is Tze Him Chan. Fourier.
 
 ## <div></div>
-
-### Feel free to connect with me:
 <!--
  <div>
 
