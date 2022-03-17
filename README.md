@@ -12,6 +12,7 @@
 -->
 ## <div></div>
 <a href="https://leetcode.com/Fourierz517">https://leetcode.com/Fourierz517/</a>
+<br>
 ![image](https://user-images.githubusercontent.com/83400846/158849847-25856752-be9b-46a6-85c4-5a93114dd4d8.png)
 ## <div></div>
 <a href="http://github.com/fourierz517">
