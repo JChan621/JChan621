@@ -1,4 +1,4 @@
-### Hello, My name is Tze Him Chan. Fourier.
+### Hello, My name is Tze Him Chan.
 
 
 <!-- ## <div></div>
